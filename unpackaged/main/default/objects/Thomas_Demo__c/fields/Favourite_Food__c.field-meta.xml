@@ -20,6 +20,21 @@
                 <default>false</default>
                 <label>Salad</label>
             </value>
+            <value>
+                <fullName>Cheese</fullName>
+                <default>false</default>
+                <label>Cheese</label>
+            </value>
+            <value>
+                <fullName>Curds</fullName>
+                <default>false</default>
+                <label>Curds</label>
+            </value>
+            <value>
+                <fullName>Whey</fullName>
+                <default>false</default>
+                <label>Whey</label>
+            </value>
         </valueSetDefinition>
     </valueSet>
 </CustomField>
