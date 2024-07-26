@@ -16,5 +16,8 @@
     <layoutAssignments>
         <layout>AlternativePaymentMethod-Alternative Payment Method Layout</layout>
     </layoutAssignments>
+    <layoutAssignments>
+        <layout>Tom_s_Custom_Metadata__mdt-Tom%27s Custom Metadata Layout</layout>
+    </layoutAssignments>
     <userLicense>Salesforce</userLicense>
 </Profile>
